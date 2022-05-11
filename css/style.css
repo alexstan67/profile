@@ -1,0 +1,75 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  padding: 5px;
+  margin: 5px;
+}
+.card {
+  border-radius: 20px;
+  margin: 40px auto;
+  padding: 10px;
+  color: rgb(100,100,100);
+  text-align: center;
+  width: 500px;
+  background-color: rgb(230,230,230);
+  box-shadow: 2px 2px 10px rgb(100,100,100);
+}
+
+.profile-image {
+  margin: auto;
+  width: 150px;
+  border-radius: 50%;
+  border-color: red;
+  box-shadow: 2px 2px 10px rgb(100,100,100);
+}
+
+.card h1 {
+  color: rgb(100,100,100);
+  font-weight: 900;
+}
+
+.card h2 {
+  color: #B5150D;
+}
+
+.card li {
+  display: inline;
+  list-style-type: none;
+  padding-right: 40px;
+}
+
+.card a {
+  color: rgb(100,100,100);
+}
+
+.card a:hover {
+  color: #B5150D;
+}
+
+.center {
+  text-align: center;
+}
+
+.logo_size {
+  width: 40px;
+  height: 50px;
+}
+
+.fa-linkedin, .fa-github, .fa-twitter {
+  font-size: 60px;
+}
+
+.tech_stack {
+  border-radius: 15px;
+  border: 2px solid;
+  border-color:  rgb(100,100,100);
+  padding-bottom: 20px;
+}
+.tech_stack img{
+  width: auto;
+  height: 100px;
+  padding: 0px, 15px, 30px, 15px;
+}
+
+.tech_stack p{
+  margin-bottom: 30px;
+}
