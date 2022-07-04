@@ -16,7 +16,7 @@ body {
 
 .profile-image {
   margin: auto;
-  width: 150px;
+  width: 100px;
   border-radius: 50%;
   border-color: red;
   box-shadow: 2px 2px 10px rgb(100,100,100);
